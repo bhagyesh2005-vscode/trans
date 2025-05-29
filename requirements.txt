@@ -1,4 +1,4 @@
 streamlit
-pyttsx3
+gTTS
 wikipedia
 requests
